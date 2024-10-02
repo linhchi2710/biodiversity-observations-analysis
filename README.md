@@ -21,8 +21,8 @@ The dataset used in this project contains observations of bat species in various
 
 ## Analysis Process
 1. **Data Cleaning**:
-   - Removed duplicate entries and cleaned species names.
-   - Checked for missing or incorrect values in the dataset.
+- Removed duplicate entries and cleaned species names.
+- Checked for missing or incorrect values in the dataset.
    
 2. **Exploratory Data Analysis (EDA)**:
    - Grouped the data by national park and protection status.
@@ -36,5 +36,14 @@ The dataset used in this project contains observations of bat species in various
    - Visualized the results using pandas for better insight.
 
 ## Key Results
-- Summed up the observations of species in parks to understand the distribution of protected and non-protected species.
-- Found statistically significant differences between species protection levels across parks using the Chi-square test.
+- **Distribution of Conservation Status for Species**:  
+  The vast majority of species were not part of any conservation efforts (5,633 vs. 191 species).
+
+- **Likelihood of Certain Types of Species Being Endangered**:  
+  Mammals and birds had the highest percentage of being under protection compared to other species.
+
+- **Statistical Significance in Species Conservation Status**:  
+  While mammals and birds did not show a significant difference in conservation percentages, mammals and reptiles exhibited a statistically significant difference in their protection status.
+
+- **Prevalence and Distribution of Bats Amongst Parks**:  
+  Bats were found to be the most frequently observed species, with the highest occurrences in Yellowstone National Park.
