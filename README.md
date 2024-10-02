@@ -25,15 +25,15 @@ The dataset used in this project contains observations of bat species in various
 - Checked for missing or incorrect values in the dataset.
    
 2. **Exploratory Data Analysis (EDA)**:
-   - Grouped the data by national park and protection status.
-   - Summed the number of observations across parks and species.
+- Grouped the data by national park and protection status.
+- Summed the number of observations across parks and species.
    
 3. **Chi-square Test**:
-   - Applied the Chi-square test to determine if there are statistically significant differences in protection status between different species.
+- Applied the Chi-square test to determine if there are statistically significant differences in protection status between different species.
    
 4. **Data Visualization**:
-   - Created pivot tables to show the number of observations of protected vs. not protected species in each park.
-   - Visualized the results using pandas for better insight.
+- Created pivot tables to show the number of observations of protected vs. not protected species in each park.
+- Visualized the results using pandas for better insight.
 
 ## Key Results
 - **Distribution of Conservation Status for Species**:  
