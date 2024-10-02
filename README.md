@@ -12,9 +12,9 @@ This project focuses on analyzing the conservation status of bat species across 
 
 ## Tools & Libraries
 - **Python**: Main programming language.
-- **pandas**: For data manipulation, cleaning, and analysis.
-- **matplotlib**: For data visualization.
-- **scipy**: For statistical testing (Chi-square test).
+- **Pandas**: For data manipulation, cleaning, and analysis.
+- **Matplotlib**: For data visualization.
+- **Scipy**: For statistical testing (Chi-square test).
 
 ## Dataset
 The dataset used in this project contains observations of bat species in various national parks and their conservation status. It includes information about species names, conservation statuses, and the number of observations per park.
